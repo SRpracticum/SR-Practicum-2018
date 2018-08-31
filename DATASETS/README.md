@@ -33,10 +33,10 @@ Please select your problem area:
 
 (~Anomaly & Fraud detection/Out-of-policy monitoring/ Fraud drivers identification/...)
 
-* [**Insurance default fraud**](https://github.com/SRpracticum/SR-Practicum-2018/tree/master/DATASETS)
+* [**Insurance default fraud**](https://github.com/SRpracticum/SR-Practicum-2018/blob/master/DATASETS/FRAUD%20DETECTION/fraud_detection.csv)
 
 ### CUSTOMER CHURN:
 
 (~Customer attrition/...)
 
-* [**Customer churn of Telco customers**](https://github.com/SRpracticum/SR-Practicum-2018/tree/master/DATASETS)
+* [**Customer churn of Telco customers**](https://github.com/SRpracticum/SR-Practicum-2018/blob/master/DATASETS/CUSTOMER%20CHURN/telco_churn.csv)
