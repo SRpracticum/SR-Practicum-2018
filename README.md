@@ -4,8 +4,7 @@ Thank you for attending the 2018 SR Practicum! Please select your dataset for th
 
 Start by selecting your problem area:
 
-* [**Problem Areas**](https://github.com/KPMG-CZ/R-Data-Challenge/tree/master/Survey_Evaluation)
+* [**PROBLEM AREAS**](https://github.com/SRpracticum/SR-Practicum-2018/tree/master/PROBLEM-AREAS)
 
-Analyze employee satisfaction survey and help us to discover what the employees think
 
 
