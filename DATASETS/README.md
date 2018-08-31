@@ -15,19 +15,19 @@ Please select your problem area:
 
 (~Competitor analysis/ Site selection/ Cannibalization/...:)
 
-* [**Average reimbursement rates of US clinics**](https://github.com/SRpracticum/SR-Practicum-2018/tree/master/DATASETS)
+* [**Average reimbursement rates of US clinics**](https://github.com/SRpracticum/SR-Practicum-2018/blob/master/DATASETS/HEALTHCARE/hc_providers.csv)
 
 ### FINANCIAL SERVICES:
 
  (~Physical Assets Optimization/ Site selection/ Competitor analysis/...)
 
-* [**Bank branches average annual deposits**](https://github.com/SRpracticum/SR-Practicum-2018/tree/master/DATASETS)
+* [**Bank branches average annual deposits**](https://github.com/SRpracticum/SR-Practicum-2018/blob/master/DATASETS/FINANCIAL%20SERVICES/fs_banks.csv)
 
 ### MARKETING SEGMENTATION:
 
 (~Customer clustering/ Marketing segmentation enhancement/...)
 
-* [**Customer segmentation**](https://github.com/SRpracticum/SR-Practicum-2018/tree/master/DATASETS)
+* [**Customer segmentation**](https://github.com/SRpracticum/SR-Practicum-2018/blob/master/DATASETS/MARKETING/customer_marketing_class.csv)
 
 ### FRAUD DETECTION:
 
