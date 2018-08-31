@@ -1,5 +1,5 @@
 
-# Common problem areas for these datasets:
+# Common problem areas:
 
 * Site selection
 * Trade area description
