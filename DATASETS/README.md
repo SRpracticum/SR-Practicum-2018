@@ -2,7 +2,7 @@
 
 Please select your problem area:
 
-(Note: Please look also at the [**Data Dictionary**](https://github.com/SRpracticum/SR-Practicum-2018/blob/master/DATASETS/data_dictionary.csv))
+(Note: Please also look  at the [**Data Dictionary**](https://github.com/SRpracticum/SR-Practicum-2018/blob/master/DATASETS/data_dictionary.csv))
 
 
 ### RETAIL: 
@@ -10,8 +10,8 @@ Please select your problem area:
 (~Site selection/ Trade Area description/...)
 
 * [**Home Appliances service company's tickets by Engineer**](https://github.com/SRpracticum/SR-Practicum-2018/blob/master/DATASETS/RETAIL/retail_appliances.csv)
-* [**Sunglasses store's sales**](https://github.com/SRpracticum/SR-Practicum-2018/blob/master/DATASETS/RETAIL/retail_sunglass.csv)
-* [**Electronics store's revenues**](https://github.com/SRpracticum/SR-Practicum-2018/blob/master/DATASETS/RETAIL/retail_electronics.csv)
+* [**Sunglasses stores' sales**](https://github.com/SRpracticum/SR-Practicum-2018/blob/master/DATASETS/RETAIL/retail_sunglass.csv)
+* [**Electronics stores' revenues**](https://github.com/SRpracticum/SR-Practicum-2018/blob/master/DATASETS/RETAIL/retail_electronics.csv)
 * [**Office buildings plot values**](https://github.com/SRpracticum/SR-Practicum-2018/blob/master/DATASETS/RETAIL/office_buildings.csv)
 
 ### HEALTHCARE:
