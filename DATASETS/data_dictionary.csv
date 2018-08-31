@@ -1,0 +1,26 @@
+VARIABLE,DESCRIPTION,TYPE
+AVERAGE_ANNUAL_DEPOSITS,Average annual deposits per bank branch (in USD),Target variable
+AVERAGE_REIMBURSEMENT_RATE,Average reimbursement rate per healthcare provider/clinic (in USD),Target variable
+BUILDING_PLOT_VALUE,Plot value of the office building (in USD),Target variable
+BUSINESS_TYPE,Type of business of the entity ,Entity/Customer details
+CITY,Entity/Customer address - city,Entity/Customer details
+CLASS_ID,Marketing customer segment ID (=Marketing cohort in numeric format),Target variable
+CUSTOMER_ID,Unique customer ID (primary key),Primary key
+ENTITY_ID,Unique entity ID (primary key),Primary key
+FLAG_AT_LEAST_ONE_DEFAULT,Binary variable: 1 = customer had at least one default in given time period; 0 = no defaults,Target variable
+FLAG_CHURNED,Binary variable: 1 = customer left our Telco company (=inactive customer);  0 = active customer,Target variable
+LAT,Entity/Customer address - Latitude,Entity/Customer details
+LON,Entity/Customer address - Longitude,Entity/Customer details
+MARKETING_COHORT,Marketing customer segment,Target variable
+MONTH,Time stamp of the record - month,Time stamp
+NAICS,Type of industry of the entity (NAICS code),Entity/Customer details
+NAICS_DESCRIPTION,Type of industry of the entity (NAICS code description),Entity/Customer details
+NUMBER_OF_INSURANCE_CLAIMS,Number of insurance claims recorded for the customer in the given time period,Target variable
+NUMBER_OF_SERVICE_TICKETS_BY_ENGINEER,Number of insurance service tickets resolved per 1 engineer in the given time period,Target variable
+REVENUE_PER_SQM,Revenue per square meter (in USD),Target variable
+SALES_PER_LOCATION,Sales per location/store (in USD),Target variable
+SALES_PER_STORE,Sales per location/store (in USD),Target variable
+STATE,Entity/Customer address - State,Entity/Customer details
+STREET,Entity/Customer address - Street,Entity/Customer details
+YEAR,Time stamp of the record - year,Time stamp
+ZIP,Entity/Customer address - Zip,Entity/Customer details
