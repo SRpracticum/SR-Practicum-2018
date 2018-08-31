@@ -16,3 +16,15 @@ HEALTHCARE:
 FINANCIAL SERVICES:
 
 * [**Bank branches average annual deposits**](https://github.com/SRpracticum/SR-Practicum-2018/tree/master/DATASETS)
+
+MARKETING SEGMENTATION:
+
+* [**Customer segmentation**](https://github.com/SRpracticum/SR-Practicum-2018/tree/master/DATASETS)
+
+FRAUD DETECTION:
+
+* [**Insurance default fraud**](https://github.com/SRpracticum/SR-Practicum-2018/tree/master/DATASETS)
+
+CUSTOMER CHURN:
+
+* [**Customer churn of Telco customers**](https://github.com/SRpracticum/SR-Practicum-2018/tree/master/DATASETS)
