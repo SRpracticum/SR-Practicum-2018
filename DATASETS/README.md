@@ -1,7 +1,9 @@
 # SR Practicum Hackathon Problem Areas
 
 Please select your problem area:
-(Note: Please also look at the [**Data Dictionary**](https://github.com/SRpracticum/SR-Practicum-2018/blob/master/DATASETS/data_dictionary.csv))
+
+(Note: Please look also at the [**Data Dictionary**](https://github.com/SRpracticum/SR-Practicum-2018/blob/master/DATASETS/data_dictionary.csv))
+
 
 ### RETAIL: 
 
