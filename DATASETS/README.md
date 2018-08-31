@@ -2,14 +2,15 @@
 
 Please select your problem area:
 
-REATAIL [~Site selection/ Trade Area description/...]:
+REATAIL: 
+[~Site selection/ Trade Area description/...]
 
 * [**Home Appliances service company's tickets by Engineer**](https://github.com/SRpracticum/SR-Practicum-2018/tree/master/DATASETS)
 * [**Sunglasses store's sales**](https://github.com/SRpracticum/SR-Practicum-2018/tree/master/DATASETS)
 * [**Electronics store's revenues**](https://github.com/SRpracticum/SR-Practicum-2018/tree/master/DATASETS)
 * [**Office buildings plot values**](https://github.com/SRpracticum/SR-Practicum-2018/tree/master/DATASETS)
 
-HEALTHCARE[~Competitor analysis/ Site selection/ Cannibalization/...:
+HEALTHCARE[~Competitor analysis/ Site selection/ Cannibalization/...:]
 
 * [**Average reimbursement rates of US clinics**](https://github.com/SRpracticum/SR-Practicum-2018/tree/master/DATASETS)
 
