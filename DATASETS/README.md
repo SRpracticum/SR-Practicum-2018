@@ -1,4 +1,4 @@
-# Problem Areas
+# SR Practicum Hackathon Problem Areas
 
 Please select your problem area:
 
